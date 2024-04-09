@@ -35,8 +35,7 @@ else:
 ```
 
 ## Output:
-![Screenshot 2024-03-23 090134](https://github.com/GSanthosh007/Square-root-of-a-number/assets/147527586/602bfedd-8613-424b-9626-cf3f1f731170)
-
+![Screenshot 2024-04-09 165112](https://github.com/GSanthosh007/Square-root-of-a-number/assets/147527586/76fe5fec-dac1-4a6d-982a-30ea19bab059)
 
 
 ## Result:
